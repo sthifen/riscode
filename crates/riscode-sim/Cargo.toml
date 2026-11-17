@@ -1,0 +1,9 @@
+[package]
+name = "riscode-sim"
+description = "Simulador RISC-V (RV32IM) de RISCode, con pantalla bitmap y teclado MMIO como RARS."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+riscode-asm = { workspace = true }

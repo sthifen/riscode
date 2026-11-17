@@ -1,0 +1,8 @@
+[package]
+name = "riscode-asm"
+description = "Ensamblador RISC-V (RV32IM, dialecto RARS) de RISCode. Basado en el Proyecto 3."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
